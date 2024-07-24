@@ -37,7 +37,7 @@ abouthead.innerHTML=`<header id="navbar">
         <h1 id="mumiah1">MUMIA</h1>
         <img
           id="mumiaimg"
-          src="./mumia.png"
+          src="./img/mumia.png"
           alt=""
           width="50px"
           height="50px"
